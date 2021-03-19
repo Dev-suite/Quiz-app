@@ -1,11 +1,11 @@
 const quizData = [
     {
-        question: "What is the most used programming language in 2019?",
-        a: "Java",
-        b: "C",
-        c: "Python",
-        d: "JavaScript",
-        correct: "d",
+        question: "Among unary operation which operator represents increment?",
+        a: "--",
+        b: "++",
+        c: "-",
+        d: "!",
+        correct: "b",
     },
     {
         question: "Who is the President of US?",
